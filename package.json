@@ -1,0 +1,17 @@
+{
+  "name": "login_register_system",
+  "version": "1.0.0",
+  "description": "This is login and register system",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Devendra Bhole",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^3.1.9",
+    "express": "^4.18.2",
+    "mysql2": "^3.9.1",
+    "uuid": "^9.0.1"
+  }
+}
